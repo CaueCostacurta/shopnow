@@ -9,15 +9,9 @@ def find_repo_root(start: Path = Path.cwd()) -> Path:
             return parent
     return p  # fallback: cwd
 
-# Cria o diretório de dados brutos, se não existir
-def create_raw_dir() -> Path:
-    BASE_DIR = find_repo_root()
-    RAW_DIR = BASE_DIR / "data" / "raw"
-    RAW_DIR.mkdir(parents=True, exist_ok=True)
-    return RAW_DIR
-
-# Define o diretório base e o diretório de dados brutos
+# Define e cria o diretório de dados brutos, se não existir
 def get_raw_dir() -> Path:
     BASE_DIR = find_repo_root()
     RAW_DIR = BASE_DIR / "data" / "raw"
+    RAW_DIR.mkdir(parents=True, exist_ok=True)
     return RAW_DIR
