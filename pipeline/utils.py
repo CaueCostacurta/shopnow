@@ -1,5 +1,4 @@
 from pathlib import Path
-from pipeline.metas_generator import find_repo_root
 
 # Função para encontrar o diretório raiz do repositório
 def find_repo_root(start: Path = Path.cwd()) -> Path:
