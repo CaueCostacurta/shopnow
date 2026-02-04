@@ -1,0 +1,351 @@
+id_funcionario,nome,departamento,cargo,data_admissao,salario,beneficios,bonus
+1,Alana Rocha,TI,Engenheiro químico,2024-04-29,3319,1426,0
+2,Jade Leão,ti,Assistente de produção,2024-12-27,7072,719,0
+3,Joana Ferreira,Financeiro,Psicomotricista,2021-07-15,16325,430,0
+4,Maria Liz Farias,TI,Administrador público,2025-09-08,9664,1252,0
+5,Ísis da Paz,Financeiro,Técnico em tratamento de água,2021-04-01,9015,2018,0
+6,Davi Miguel Cirino,Operações,Oftalmologista,2020-06-10,21809,1439,0
+7,Sarah Siqueira,ti,Perfumista,2022-01-17,16348,1693,1000
+8,Ian da Cunha,ti,Técnico em segurança do trabalho,2022-06-13,9555,1678,0
+9,Maria Laura Borges,TI,Reumatologista,2020-05-01,14949,696,1000
+10,Gael Henrique Cassiano,Marketing,Gerente de banco,2024-11-02,11167,477,2000
+11,Bento Mendes,Financeiro,Ortodontista,2021-08-17,6590,1850,0
+12,Dr. Enrico Moura,Financeiro,Vendedor,2025-06-21,12106,1781,0
+13,João Miguel Carvalho,TI,Escritor,2020-12-15,4001,1233,1000
+14,Oliver Cirino,TI,Atleta de tiro com arco,2025-06-04,10128,713,2000
+15,Ágatha Pinto,Marketing,Somelier,2024-06-19,17357,1794,0
+16,Antonella Pinto,Marketing,Manicure,2020-09-30,14141,1158,1000
+17,Alice Lopes,TI,Salgadeira,2024-02-07,8107,2487,0
+18,Ana Laura Sales,ti,Taifeiro,2021-05-31,17647,1854,1000
+19,Maria Fernanda Sá,Financeiro,Coreógrafo,2020-03-11,9696,1628,0
+20,Matheus Cavalcanti,ti,Técnico em aviação,2024-06-06,3551,1592,2000
+21,Dom Oliveira,Marketing,Engenheiro de petróleo,2022-09-07,4668,1164,1000
+22,Levi Nunes,ti,Personal stylist,2025-11-27,18858,1920,2000
+23,Sr. Enzo Jesus,ti,Cientista de alimentos,2025-09-22,11179,871,0
+24,Manuella Sales,Financeiro,Selecionador de pessoal,2025-07-03,20161,1376,2000
+25,Mathias Pereira,Financeiro,Técnico em higiene dentária,2024-06-03,15587,1782,0
+26,Eduardo Pastor,ti,Cientista social,2020-08-30,19196,2321,0
+27,Caleb Andrade,TI,Técnico tributarista,2025-04-22,6092,926,0
+28,Aurora Câmara,Operações,Lactarista hospitalar,2022-11-23,4581,1876,2000
+29,Ágatha Nascimento,Financeiro,Artista/Técnico em espetáculos de diversões,2022-02-17,17837,2467,1000
+30,Maria Sophia Ramos,Financeiro,Gestor de tecnologia da informação,2025-04-16,2876,769,1000
+31,Antony da Cruz,Marketing,Político,2021-08-04,6155,1502,2000
+32,Mariana Carvalho,ti,Gestor público,2024-04-19,17367,313,1000
+33,Zoe Cirino,Financeiro,Técnico em documentação,2022-05-20,8354,2379,0
+34,Clara Siqueira,Marketing,Geofísico,2024-07-10,19135,1114,0
+35,Kamilly Nascimento,Marketing,Guarda ou policial rodoviário,2021-02-20,7793,2472,0
+36,Bárbara Cassiano,Financeiro,Corretor de imóveis,2023-10-02,13121,2301,0
+37,Mathias Duarte,TI,Gestor de qualidade,2020-02-09,14394,1559,0
+38,Sr. Pietro Sampaio,TI,Assistente administrativo,2021-08-13,10392,622,0
+39,Clara Silveira,Operações,Técnico em rede,2026-01-29,4767,2481,0
+40,Laís Pereira,ti,Amolador de ferramentas,2024-04-22,18074,976,1000
+41,Juliana da Costa,Financeiro,Cantor,2024-08-09,16365,1167,0
+42,Luiz Miguel Moura,Marketing,Taxidermista/Embalsamador,2023-05-16,15574,1829,2000
+43,Thiago Carvalho,Financeiro,Promotor de vendas,2020-04-24,17294,795,0
+44,Asafe Freitas,ti,Manicure,2024-06-30,4598,1684,0
+45,José Miguel Pastor,Financeiro,Museólogo,2020-06-01,20650,1242,0
+46,Josué Rocha,TI,Anestesiologista,2022-07-26,4826,541,0
+47,Sra. Zoe Dias,TI,Boticário,2025-07-16,3529,1653,0
+48,Ana Cecília Castro,Financeiro,Dialoguista,2023-07-31,10298,1440,2000
+49,Ryan Jesus,ti,Panificador/Padeiro,2022-03-02,20169,841,2000
+50,Emanuelly Macedo,ti,Pastilheiro,2021-04-21,17998,1967,0
+51,Ana Beatriz Macedo,TI,Petroleiro,2023-12-11,5676,2065,1000
+52,Luara Leão,Operações,Hostess,2024-01-02,15970,2212,0
+53,Eduarda Cardoso,TI,Obstetra,2024-11-05,4486,1949,1000
+54,André da Conceição,TI,Desembargador de justiça,2021-12-10,10647,1084,0
+55,Sra. Stephany da Cunha,Financeiro,Restaurador,2023-12-15,17200,874,2000
+56,João Vitor Caldeira,ti,Maitre,2021-01-26,11627,2194,0
+57,Dra. Ísis Peixoto,TI,Patologista oral,2021-04-21,17020,701,0
+58,Cauã Borges,Financeiro,Personal stylist,2020-10-06,2983,682,0
+59,Maria Liz Gomes,ti,Tecnólogo em tecnologia da madeira,2023-03-20,15817,2289,2000
+60,Sr. Pedro Lucas da Luz,ti,Eletricista,2024-02-02,15641,540,0
+61,Dra. Ana Júlia Caldeira,Operações,Cantor,2021-03-18,2570,1899,1000
+62,Gustavo Brito,Operações,Ator,2023-09-29,11847,2032,2000
+63,Caleb Campos,ti,Comissário de bordo,2021-12-12,8722,1515,0
+64,Dra. Ana Lívia Ribeiro,TI,Engenheiro de produção agroindustrial,2025-12-07,21478,549,1000
+65,Bruno da Rocha,TI,Agrimensor,2024-04-25,4143,2252,0
+66,Bruna Cavalcanti,TI,Apontador de mão-de-obra,2025-09-27,19140,628,0
+67,Mariana Santos,TI,Lenhador,2020-10-11,21998,578,0
+68,Srta. Eduarda Garcia,Operações,Diarista,2024-04-18,6428,1308,0
+69,Mariah Montenegro,Financeiro,Quadrinista,2023-12-31,5186,2017,1000
+70,Vitória Nogueira,Marketing,Portuário,2022-03-29,9193,1586,0
+71,Caio das Neves,Marketing,Tecnólogo em produção Sucroalcooleira,2020-07-16,15469,836,1000
+72,Nina Correia,Operações,Recepcionista,2021-07-14,12860,597,0
+73,Noah Azevedo,Operações,Chapeiro,2024-08-10,20948,709,0
+74,Dr. José Pedro Lopes,Financeiro,Mecanógrafo,2025-05-16,9484,2372,1000
+75,Gustavo Henrique Freitas,ti,Médico,2026-01-03,13936,581,0
+76,Eduardo da Cunha,Marketing,Tapeceiro,2026-01-26,11838,946,2000
+77,Sr. Miguel Caldeira,Financeiro,Profissional de informática,2022-12-06,12412,2466,0
+78,Mirella Abreu,Financeiro,Astronauta,2024-07-17,12310,724,0
+79,Breno Gomes,Marketing,Auditor,2023-05-09,6282,738,0
+80,José Sá,Marketing,Seguidor de compras,2025-12-22,11732,1162,1000
+81,Sr. Renan da Costa,ti,Profissional de hotelaria,2022-09-27,11150,2370,2000
+82,Luana Campos,Marketing,Paparazzo,2020-02-11,4164,678,2000
+83,Lucas Gabriel Andrade,Marketing,Agente de viagens,2025-05-12,3944,314,1000
+84,Maria Helena Câmara,ti,Barbeiro,2022-03-23,11083,961,2000
+85,Stephany Rocha,Financeiro,Clarinetista,2022-10-25,16514,339,0
+86,Carlos Eduardo Pastor,TI,Representante comercial,2024-11-19,7384,447,1000
+87,Cecilia Vargas,Financeiro,Redator,2025-02-19,20605,906,2000
+88,Beatriz Pires,ti,Paisagista,2023-04-22,3870,1562,1000
+89,Valentina da Cunha,TI,Estampador de tecidos,2020-04-18,14224,1160,0
+90,Alice Viana,TI,Assistente de câmera,2024-05-29,14089,1964,0
+91,Juan Viana,ti,Engenheiro florestal,2021-10-20,7824,1025,2000
+92,Heitor Borges,TI,Juiz de futebol,2025-02-12,8377,1660,2000
+93,Srta. Giovanna Cirino,ti,Skatista,2021-05-17,11242,952,0
+94,Larissa Pimenta,Operações,Intérprete de Bíblias,2026-01-28,3768,2227,0
+95,Luiza Souza,ti,Cinegrafista,2020-12-13,17583,1732,1000
+96,Beatriz Azevedo,ti,Assistente de câmera,2025-12-22,9804,396,0
+97,Sra. Liz Caldeira,Operações,Triatleta,2021-08-25,13256,1441,0
+98,Luiz Miguel Camargo,Marketing,Profissional de tecnologia de laticínios,2020-08-30,14006,2386,2000
+99,Gabrielly Oliveira,Financeiro,Windsurfer,2022-01-21,13351,413,0
+100,Calebe Mendonça,Marketing,Ator,2023-06-01,8351,1387,0
+101,Miguel Garcia,TI,Ilustrador,2020-04-30,16739,1715,1000
+102,Daniela Montenegro,Operações,Panificador/Padeiro,2022-05-07,19258,773,2000
+103,Dra. Alexia Fogaça,Financeiro,Maestro,2022-06-11,8728,1343,0
+104,Luiz Fernando Brito,Operações,Gourmet,2025-02-18,2555,2429,0
+105,Isabelly Freitas,Marketing,Mergulhador,2022-09-07,16632,586,1000
+106,Sara Abreu,Financeiro,Degustador,2022-05-09,12786,810,1000
+107,Maria Cecília Vieira,Financeiro,Técnico em agropecuária,2022-02-04,12634,1972,1000
+108,Sr. Augusto Pires,Operações,Imunologista,2020-06-05,12188,821,0
+109,Dra. Heloisa Rocha,Operações,Agente de combate à endemias,2023-01-06,14923,1012,1000
+110,Julia Fonseca,Operações,Revisor,2022-10-02,20454,301,1000
+111,Cecilia Moreira,Marketing,Vistoriador de sinistros,2024-10-16,9387,2060,1000
+112,Thomas Viana,Operações,Baterista,2020-02-16,16976,2111,0
+113,Julia Garcia,Financeiro,Profissional de relações internacionais,2023-06-17,18005,995,0
+114,Isabelly Fernandes,Marketing,Empregado doméstico,2020-10-26,19390,1672,0
+115,Júlia Alves,ti,Alergologista,2020-06-01,12671,1220,0
+116,Luan Cardoso,ti,Biotecnólogo,2021-10-15,3300,489,0
+117,Theo da Rocha,Operações,Maquiador,2024-06-15,4886,2165,2000
+118,Sarah Machado,Financeiro,Engenheiro agrônomo,2021-02-01,8871,1872,2000
+119,Isis Jesus,Operações,Auxiliar de serviços gerais,2023-07-09,10494,904,0
+120,Lívia Silva,TI,Astrofísico,2023-08-12,16431,1196,0
+121,Lívia Cardoso,Financeiro,Médico cirurgião,2025-06-04,17722,505,0
+122,Aurora Macedo,TI,Ministro,2025-03-12,17457,846,2000
+123,Carlos Eduardo Garcia,Financeiro,Crítico,2024-02-05,20814,1599,2000
+124,Eloah Almeida,Financeiro,Cirurgião bucal,2022-01-11,19040,2047,2000
+125,Diego Moraes,ti,Salgadeira,2023-01-17,18054,2143,1000
+126,Rael Souza,ti,Jogador de bocha,2022-06-19,11586,2435,2000
+127,Sr. Erick Viana,ti,Paramédico,2022-03-16,11498,2101,0
+128,Joana Ribeiro,Marketing,Atleta de nado sincronizado,2023-10-06,10183,1412,1000
+129,Raul Correia,Marketing,Dentista,2021-02-05,20199,630,0
+130,Henry Peixoto,ti,Lancheiro,2020-07-18,10077,1868,0
+131,Ravy Pereira,ti,Feirante,2025-08-20,4604,1999,2000
+132,Apollo da Cruz,Marketing,Gari,2022-07-10,20280,2208,2000
+133,Benício Barros,TI,Estatístico,2025-03-06,9277,2020,2000
+134,Dr. Enzo Gabriel Aparecida,Financeiro,Cadeirinha,2024-11-29,3140,1858,2000
+135,Gael Cunha,TI,Engenheiro de controle e automação,2021-10-10,14026,1523,2000
+136,João Felipe da Rosa,Operações,Contabilista,2023-01-03,20136,1203,2000
+137,Aylla Sá,ti,Programador,2024-12-15,11443,2085,2000
+138,Sr. Luiz Gustavo Guerra,TI,Crítico,2023-09-06,15242,1676,2000
+139,Rafael Souza,ti,Gestor ambiental,2020-05-06,17815,822,0
+140,Joaquim Silva,Operações,Agente de defesa sanitária animal,2024-12-21,21895,411,0
+141,Emilly Porto,Operações,Assistente de produção,2020-09-30,6946,2191,0
+142,Miguel Oliveira,TI,Engenheiro de processos,2021-04-15,11024,1852,1000
+143,Sr. Benício Oliveira,ti,Representante comercial,2022-06-17,17399,1638,1000
+144,Sr. João Miguel Cunha,Operações,Coordenador,2022-04-10,11617,2026,1000
+145,Emanuel Souza,TI,Lutador de jiu-jitsu,2023-06-24,17911,379,0
+146,Ravi Duarte,Marketing,Lutador de luta livre,2024-01-15,9847,581,0
+147,Larissa Cardoso,TI,Radioterapêutico,2021-11-28,10602,1116,0
+148,Bruna Porto,Financeiro,Seringueiro,2023-03-15,7493,1277,0
+149,Dr. André Almeida,Operações,Administrador de banco de dados DBA,2026-01-06,6248,1192,2000
+150,Manuella da Conceição,Marketing,Entalhador,2024-09-13,14587,987,0
+151,Léo Duarte,ti,Sociólogo,2023-01-13,12692,742,0
+152,Dr. Kevin Lopes,Marketing,Radiologista,2023-03-24,21367,1837,2000
+153,Dra. Maria Júlia Leão,ti,Navegador,2023-11-02,4990,1294,0
+154,Sr. Vicente Azevedo,Marketing,Promotor de eventos,2022-01-04,6466,468,1000
+155,Srta. Yasmin Vieira,Financeiro,Policial federal,2020-02-21,16537,1817,0
+156,Emanuel Fogaça,Financeiro,Peixeiro,2022-10-16,13681,351,2000
+157,Caleb Vasconcelos,Operações,Esgrimista,2020-07-19,5958,2075,1000
+158,Liam Porto,Operações,Odontologista estético,2023-09-16,7513,2083,0
+159,Yan Nogueira,Financeiro,Catador de carangueijos,2022-05-25,11350,2280,2000
+160,Yuri Fogaça,Operações,Designer de moda,2022-03-13,21914,1399,1000
+161,Enzo Gabriel Câmara,ti,Ambientalista,2024-09-01,5339,1442,2000
+162,Bianca Mendes,ti,Musicoterapeuta,2024-01-26,17727,1852,1000
+163,Bernardo Vieira,TI,Engenheiro florestal,2024-11-19,18697,1631,0
+164,Srta. Yasmin Aparecida,Operações,Profissional de informática,2020-11-30,9450,1753,1000
+165,Mariana Dias,Marketing,Meteorologista,2025-02-06,11663,1431,0
+166,Noah Freitas,Financeiro,Laboratorista,2025-05-09,8760,650,0
+167,Srta. Brenda Pimenta,Operações,Ator,2022-12-23,18509,1284,2000
+168,Sra. Maya Rodrigues,Operações,Empacotador,2021-02-17,17185,370,0
+169,Maya Vieira,Marketing,Defensor Público,2025-12-23,9761,1956,0
+170,Davi Lucas Marques,Marketing,Tesoureiro,2020-07-05,21556,1811,2000
+171,Erick Silva,Financeiro,Engenheiro de materiais,2020-09-11,19897,1708,2000
+172,Nicole da Cunha,Financeiro,Figurante,2023-01-13,13339,1741,2000
+173,Srta. Ana Julia Fernandes,Marketing,Designer de moda,2020-03-30,12547,1329,0
+174,Jade Caldeira,TI,Meeiro,2025-03-12,8810,1592,0
+175,João Gabriel Fonseca,Financeiro,Roteirista,2024-01-23,8566,1084,0
+176,Benjamim da Conceição,Operações,Editor,2025-11-10,11560,2448,1000
+177,Eduardo Ribeiro,TI,Tabelião,2024-07-28,8860,1513,0
+178,Brayan Ribeiro,Marketing,Gerente de inovações ou novos negócios,2024-01-26,8379,1538,0
+179,Luana Cavalcante,Financeiro,Agente funerário,2023-10-23,6647,1423,0
+180,Leandro Araújo,TI,Promotor de eventos,2024-07-08,20632,1496,0
+181,Danilo da Conceição,Operações,Ascensorista,2025-12-17,5861,350,1000
+182,Ana Julia Silva,Operações,Grafologista,2022-11-08,18186,2104,1000
+183,Dra. Fernanda Moura,ti,Arrumadeira,2022-02-19,4183,1334,2000
+184,Anthony Gabriel Castro,TI,Patologista,2023-11-25,4641,1941,2000
+185,Sra. Bianca da Rosa,TI,Guia turistico,2023-08-09,21407,519,0
+186,Carolina Sampaio,ti,Lutador de kung fu,2020-12-19,20943,1544,0
+187,Eloah Campos,ti,Veterinário,2023-07-15,6381,2004,0
+188,Emilly Moreira,Financeiro,Barbeiro,2025-12-21,14964,2145,2000
+189,Ana Vitória Novais,Marketing,Ambientalista,2024-08-25,21784,2056,1000
+190,Eloah Sales,Financeiro,Biotecnólogo,2022-05-02,4473,706,0
+191,Dra. Lavínia Siqueira,ti,Trompetista,2022-02-11,11171,632,0
+192,Vitor Hugo Borges,ti,Engenheiro de materiais,2024-04-12,8195,607,0
+193,Jade Castro,TI,Engenheiro acústico,2023-01-25,15886,2145,2000
+194,Dr. Arthur Gabriel Dias,Marketing,Biólogo,2023-12-22,3569,1248,1000
+195,Ravi Lucca Abreu,Marketing,Estivador,2025-10-18,17377,591,0
+196,Léo Barbosa,Marketing,Ceramista,2023-08-19,21826,1110,2000
+197,José Pedro Campos,TI,Engenheiro de minas,2025-08-19,20344,1220,0
+198,Maria Julia Cirino,Marketing,Paginador,2023-12-28,7160,592,0
+199,Isabelly das Neves,ti,Guarda roupeiro,2024-03-05,12579,1482,2000
+200,Maria Fernanda Vieira,TI,Advogado,2025-08-29,17858,1545,2000
+201,Theo da Luz,Marketing,Médico,2022-04-05,18899,2322,2000
+202,João Borges,TI,Faxineiro,2020-12-22,3806,2069,1000
+203,Milena Freitas,Financeiro,Engenheiro de transportes,2026-01-21,10704,405,0
+204,Ísis Ribeiro,ti,Guitarrista,2021-02-07,21348,384,1000
+205,Otávio Farias,Financeiro,Publicitário,2025-08-21,3818,1017,2000
+206,Vitor Martins,Financeiro,Amolador de ferramentas,2022-05-06,16990,1439,0
+207,Guilherme Machado,Financeiro,Ascensorista,2022-11-02,16783,2314,0
+208,Lara da Luz,Operações,Redator,2025-05-21,13901,1972,1000
+209,Emanuelly Sampaio,Marketing,Nefrologista,2024-08-18,5927,958,1000
+210,Srta. Ísis Mendonça,Operações,Mestre cervejeiro,2022-07-16,18735,1480,2000
+211,Ana Julia da Mata,Financeiro,Repositor,2021-06-30,3702,2162,0
+212,Vitória Peixoto,Marketing,Turismólogo,2020-09-11,10770,1624,0
+213,Pedro Miguel Nogueira,Operações,Pintor,2022-07-07,19362,304,2000
+214,Ayla Melo,Operações,Jogador de badminton,2023-09-21,4276,1068,1000
+215,Sr. Ian Sá,Financeiro,Pianista,2025-06-26,18834,2110,0
+216,Carolina Almeida,ti,Otorrinolaringologista,2021-01-11,11250,836,1000
+217,Ana Sophia Moraes,Operações,Brigadeiro,2020-10-07,18383,797,0
+218,João Almeida,Financeiro,Gourmet,2020-05-09,10341,948,1000
+219,Srta. Julia Gonçalves,Financeiro,Lenhador,2022-05-30,2948,1971,0
+220,Isadora Guerra,ti,Gestor ambiental,2025-06-02,6217,2190,0
+221,Bruno Novais,ti,Endocrinologista,2022-03-09,18830,1495,1000
+222,Igor Vasconcelos,Operações,Lamboteiro,2024-06-30,18310,2234,0
+223,Sara Carvalho,Operações,Engraxate,2024-08-08,20563,892,2000
+224,Mirella Pacheco,ti,Aviador,2021-01-06,19154,859,0
+225,Mariane Sampaio,Marketing,Ecólogo,2020-06-19,16096,1692,1000
+226,Augusto Duarte,TI,Servente-de-obras,2025-06-22,11768,1522,2000
+227,Srta. Maria Eduarda Rocha,ti,Geriatra,2021-08-24,17132,2283,1000
+228,José Pedro Machado,Marketing,Regente,2023-04-04,20585,1845,2000
+229,Sra. Zoe Garcia,Marketing,Balconista,2021-09-11,8681,1278,2000
+230,Maria Julia Lopes,ti,Senador,2024-12-19,15960,478,1000
+231,Henry Peixoto,Operações,Petroleiro,2025-06-14,14992,1881,0
+232,Lunna da Cunha,Operações,Delegado,2020-04-26,3713,817,1000
+233,Isabel Nogueira,TI,Adestrador de animais,2024-10-11,16927,708,2000
+234,Liam Mendes,TI,Caldeireiro,2022-11-13,7223,1979,0
+235,Cecília Fogaça,TI,Conferente de recebimento,2022-03-08,17884,1385,1000
+236,Gael da Mota,Financeiro,Taifeiro,2025-07-08,15524,628,1000
+237,Luísa Novais,Financeiro,Hematologista,2025-10-10,14952,1597,2000
+238,Isaac das Neves,Financeiro,Técnico em aviação,2025-05-14,3676,580,0
+239,Dra. Heloisa Pires,Marketing,Windsurfer,2020-09-07,9954,670,2000
+240,Arthur Miguel da Rocha,TI,Pesquisador,2021-05-07,5793,2117,0
+241,Cecilia Santos,Marketing,Diplomata,2021-07-30,3448,488,1000
+242,Dr. Juan Souza,TI,Promotor de vendas,2020-02-09,12113,1768,1000
+243,Davi Lucca Santos,Operações,Baterista,2024-10-18,7270,1300,2000
+244,Ana Liz Novais,Financeiro,Quitandeiro,2024-05-15,8400,996,0
+245,Júlia Castro,TI,Intérprete,2021-04-27,15035,1286,2000
+246,Emanuelly Gonçalves,Financeiro,Escoteiro,2022-08-30,7189,1251,2000
+247,Ryan Cirino,Marketing,Moldador,2025-10-09,17559,1345,0
+248,Benício da Cruz,Operações,Meteorologista,2025-03-01,11925,947,0
+249,Srta. Rafaela Correia,Operações,Dermatologista,2020-07-10,13823,1525,2000
+250,Enzo Castro,Marketing,Restaurador,2023-12-13,17469,1537,0
+251,Clarice Pereira,Operações,Estatístico,2024-08-18,18333,736,0
+252,Bella Guerra,Operações,Economista doméstico,2022-06-05,21240,1770,1000
+253,João Pedro Rezende,Marketing,Espeleologista,2024-05-10,3218,1921,1000
+254,Luna Gonçalves,TI,Almoxarife,2022-05-02,21044,500,2000
+255,Sra. Isabelly Abreu,Marketing,Modelo,2020-02-24,10040,1743,0
+256,Liam Ramos,ti,Marechal,2021-10-31,10712,860,0
+257,Dra. Nina Alves,TI,Tecnólogo em produção Sucroalcooleira,2021-01-06,12623,2105,0
+258,Caleb Leão,Financeiro,Técnico em radiologia,2024-09-06,14455,838,0
+259,Dr. Matteo Melo,Marketing,Estivador,2022-09-02,13205,2001,0
+260,Bárbara Nogueira,ti,Operador de telemarketing,2023-07-04,6830,1798,1000
+261,Esther Vargas,ti,Piloto automobilístico,2023-01-13,10920,2273,1000
+262,José Pedro Rios,Marketing,Alergologista,2024-02-22,6273,2218,0
+263,Hadassa Costela,ti,Engenheiro de materiais,2021-03-05,9892,1927,1000
+264,João Pedro Albuquerque,TI,Quadrinista,2022-08-21,15429,357,1000
+265,Valentina Rocha,Financeiro,Aeronauta,2023-12-04,6549,2162,1000
+266,Maria Sophia Novaes,Marketing,Engenheiro ambiental,2025-11-18,21654,1860,1000
+267,Anna Liz Martins,TI,Controlador de vôo,2021-05-31,10161,2231,0
+268,Liam Monteiro,Financeiro,Figurinista,2020-10-09,20896,1643,0
+269,Emanuel Gomes,TI,Sapateiro,2022-12-01,17713,1537,2000
+270,Bryan Farias,TI,Nutricionista,2021-11-01,7080,485,0
+271,Vitor Gabriel da Paz,Marketing,Moldador,2025-11-21,18642,775,0
+272,Maria Luiza da Cruz,ti,Taifeiro,2025-09-07,20114,855,2000
+273,Manuella Cavalcante,Operações,Instrutor,2026-01-06,14657,2016,0
+274,Luiz Fernando Barros,Operações,Motorista,2025-04-30,5744,2304,2000
+275,Nicole Barros,Marketing,Psicopedagogo,2024-10-26,3572,1817,0
+276,Manuela Siqueira,Operações,Eletricista,2021-10-03,17071,1267,1000
+277,Antony Borges,TI,Bartender,2023-05-05,14536,1769,0
+278,Larissa da Rocha,Operações,Viveirista,2025-07-09,11540,1077,0
+279,Alice Martins,Operações,Médico nuclear,2020-05-11,5503,1168,0
+280,Stella da Luz,TI,Político,2025-12-19,13428,1297,0
+281,José Miguel da Paz,Financeiro,Atendente,2025-08-30,9224,581,0
+282,Mariah Aragão,Financeiro,Técnico em hardware,2021-01-16,9576,1254,1000
+283,Asafe Ferreira,ti,Personal stylist,2021-03-15,2592,1435,0
+284,Eloah Pimenta,ti,Impressor,2022-01-12,20201,1326,0
+285,Anthony Gonçalves,TI,Repórter,2020-11-09,3344,839,0
+286,Heloísa da Conceição,Marketing,Mecânico de vôo,2024-01-28,10296,1626,0
+287,Guilherme Mendes,ti,Historiador,2023-03-20,11195,514,0
+288,Alice da Rosa,Operações,Prensista,2023-06-25,19738,765,0
+289,Otávio Vargas,Operações,Instalador de painéis,2022-11-13,17189,1782,0
+290,Dr. Pietro Freitas,Operações,Lapidário,2024-06-30,19009,1207,0
+291,Marcela Dias,Financeiro,Neurocirurgião,2024-10-06,12383,2176,0
+292,Carlos Eduardo Ferreira,TI,Otorrinolaringologista,2025-05-07,18195,1945,2000
+293,José Miguel Siqueira,TI,Pastilheiro,2023-11-20,18565,2116,0
+294,Pedro Fogaça,TI,Técnico de som,2023-03-04,13054,907,0
+295,Mathias Duarte,ti,Coreógrafo,2023-05-29,11511,1631,2000
+296,Rafael Vargas,Financeiro,Preparador de máquinas,2025-01-18,19885,1507,2000
+297,Nicolas Silva,Financeiro,Protético dentário,2021-02-20,16596,706,0
+298,Enzo Vieira,Financeiro,Designer de produto ou desenhista industrial,2021-04-22,9545,2061,2000
+299,Aurora Cirino,ti,Epidemiólogo,2025-08-04,16059,1688,2000
+300,Manuella Azevedo,Operações,Lutador de kung fu,2021-09-14,16131,689,1000
+301,Antonella Novaes,Operações,Designer de jóia,2024-07-31,12740,1344,1000
+302,Isabelly Andrade,ti,Defensor Público,2024-06-10,18040,574,0
+303,Erick Melo,TI,Gagsman,2020-08-18,5554,2068,0
+304,Melina Teixeira,Marketing,Marinheiro,2020-06-11,6763,545,1000
+305,Dr. João Miguel Câmara,TI,Psicopedagogo,2020-08-30,15961,1748,2000
+306,Leandro Pires,TI,Governanta,2025-12-29,11925,1579,1000
+307,Ryan Câmara,TI,Frentista,2022-11-23,21437,2378,0
+308,Henrique Barros,ti,Militar do Exército,2023-08-14,18300,1218,0
+309,Lucas Gabriel Mendes,Marketing,Coreógrafo,2024-02-14,20727,1805,0
+310,Sra. Larissa Oliveira,Marketing,Pintor,2021-10-11,21312,1226,2000
+311,Samuel Fonseca,Financeiro,Engenheiro de controle e automação,2025-11-18,20743,407,1000
+312,Liz Cavalcanti,TI,Harpista,2025-09-20,8411,1419,1000
+313,Alice Rocha,Marketing,Tecnólogo em desenvolvimento social,2020-05-11,14002,325,0
+314,Camila Sales,ti,Bartender,2022-01-07,21057,1941,0
+315,Benício Jesus,ti,Jogador de golfe,2024-08-08,3504,675,0
+316,João Guilherme Camargo,Operações,Revisor,2021-05-22,16257,2158,1000
+317,Allana Barros,ti,Mecânico,2025-01-11,14625,1576,1000
+318,Pedro Miguel Nascimento,Financeiro,Protético dentário,2022-05-03,5283,515,0
+319,Luísa Fernandes,ti,Produtor musical,2022-07-05,4130,634,1000
+320,Eduarda Ferreira,Operações,Barbeiro,2024-07-01,16394,2289,2000
+321,Júlia Pereira,Operações,Historiador,2021-12-06,11451,1182,0
+322,Isabel da Paz,Marketing,Esgrimista,2020-02-19,16587,754,1000
+323,Leandro Borges,Financeiro,Motorista,2022-07-01,18445,2458,1000
+324,José Pedro Viana,TI,Líder comunitário,2021-08-29,9725,1918,0
+325,Sr. Henry Gabriel Lopes,TI,Contador,2025-09-14,9198,1534,0
+326,Hadassa Cardoso,ti,Desembargador de justiça,2022-11-10,10872,1485,1000
+327,João Vitor Andrade,TI,Dermatologista,2023-02-07,2753,2337,2000
+328,Ravi Lucca Sousa,ti,Terapeuta ocupacional,2020-09-14,6733,1857,0
+329,Joaquim da Luz,Financeiro,Lavador de veículos,2025-03-23,20808,1750,0
+330,Marina Azevedo,Operações,Engenheiro de alimentos,2024-06-06,3886,2086,0
+331,Ana Julia da Costa,Operações,Navegador,2020-07-25,5051,1582,2000
+332,Davi Lucas Novaes,Financeiro,Prefeito,2025-06-20,15752,2010,1000
+333,Theodoro Teixeira,TI,Headhunter,2020-08-06,15772,385,1000
+334,Francisco Cavalcante,ti,Matemático,2020-09-17,17576,1782,0
+335,Sophia Melo,Operações,Cerimonialista,2025-05-01,5968,1296,2000
+336,Dr. Juan Nunes,Financeiro,Consultor,2022-01-31,15621,2446,0
+337,Stella Moraes,Operações,Comerciante,2026-01-08,12667,1690,0
+338,Otto da Costa,Marketing,Imunologista,2020-04-10,8009,612,0
+339,Apollo Viana,Financeiro,Brigadeiro,2025-08-23,19210,1094,1000
+340,Enrico Sampaio,Marketing,Telefonista,2022-02-06,7339,1267,0
+341,Pietro da Rocha,ti,Telefonista,2022-10-09,10887,1108,0
+342,Felipe Moraes,Financeiro,Laboratorista,2024-02-27,7509,608,0
+343,Lucas Gabriel Teixeira,Operações,Personal stylist,2023-04-04,17702,2138,1000
+344,Arthur Miguel Porto,Marketing,Subprefeito,2025-03-26,7446,2101,0
+345,Maria Flor da Conceição,Operações,Designer de produto ou desenhista industrial,2021-03-26,16990,1540,1000
+346,Isaque Porto,Financeiro,Copeiro,2020-09-23,4340,1741,0
+347,Paulo Souza,Marketing,Ambientalista,2025-07-12,17630,2151,0
+348,Maria Flor Nogueira,TI,Vistoriador de sinistros,2020-12-14,14582,1475,0
+349,Rodrigo Freitas,TI,Profissional de relações públicas,2023-01-19,21966,2376,2000
+350,Calebe Silveira,Operações,Arqueólogo,2025-01-16,21516,468,2000
