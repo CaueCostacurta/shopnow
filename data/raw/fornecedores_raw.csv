@@ -1,0 +1,121 @@
+id_fornecedor,nome,cidade,estado
+1,da Luz S/A,da Mata de Mendes,RR
+2,Sampaio Ltda.,Andrade de Moura,GO
+3,Abreu - EI,Ferreira,Distrito Federal
+4,Silva,Santos de Montenegro,PI
+5,Novaes da Cunha e Filhos,Farias,DF
+6,da Paz - ME,Oliveira,BA
+7,Sampaio,Fernandes de Minas,PA
+8,Lopes,Souza de da Conceição,SC
+9,Mendes,Barbosa,São Paulo
+10,Peixoto Leão - EI,Novais,GO
+11,Montenegro,Leão de Cirino,MT
+12,Teixeira,Carvalho Verde,BA
+13,Nunes,Moura,PB
+14,Lima e Filhos,Albuquerque dos Dourados,RS
+15,Costa S/A,Novais,MT
+16,Castro,Nunes Grande,AL
+17,Lopes,Brito,Rio Grande do Sul
+18,Abreu S/A,Rezende,AM
+19,Aragão,Pires,Piauí
+20,Sá,Viana,Rio Grande do Norte
+21,Siqueira,Brito Paulista,ES
+22,Cirino,Oliveira,RN
+23,Mendonça,Casa Grande,Acre
+24,Novaes,Duarte Verde,Tocantins
+25,Freitas - ME,Albuquerque da Praia,Paraná
+26,da Rocha,da Cruz,SE
+27,Barbosa,Correia,DF
+28,Barros,Campos,Acre
+29,Jesus,Pastor,PB
+30,da Rosa Novais S/A,Gonçalves,MA
+31,Aragão Ltda.,das Neves do Norte,Piauí
+32,Silveira Ltda.,Borges Alegre,PR
+33,da Rosa - ME,Vieira,Paraíba
+34,da Cunha,da Paz de Abreu,Ceará
+35,da Mata Pinto S/A,Nunes do Amparo,Acre
+36,Cunha Cavalcanti Ltda.,Pinto da Praia,MG
+37,Melo,Leão,Amazonas
+38,da Rosa,Cunha de Goiás,AC
+39,Brito,Cirino,Pará
+40,Araújo Ltda.,Novais das Flores,TO
+41,Azevedo,Lopes,Amapá
+42,Macedo Novaes S.A.,da Cruz,Pará
+43,Castro Vasconcelos S.A.,Porto Grande,RR
+44,Macedo,Nascimento da Prata,SE
+45,Cunha,Fonseca,SE
+46,Brito Aparecida - ME,Moura das Flores,SP
+47,Camargo Cunha S/A,Guerra Paulista,Mato Grosso
+48,Fonseca Viana S/A,Machado,SC
+49,Costela S.A.,Fogaça do Norte,BA
+50,Guerra da Cunha S/A,da Rosa,MG
+51,Guerra,Nascimento,Paraíba
+52,da Cruz - EI,Ferreira da Mata,Santa Catarina
+53,Melo,Fogaça de Dias,Paraíba
+54,Melo,Martins,Sergipe
+55,da Mota e Filhos,Peixoto,AL
+56,Aragão,Aragão de Moreira,Pernambuco
+57,Siqueira Cavalcante Ltda.,Sá,Paraíba
+58,Pinto,da Mata Grande,GO
+59,da Luz,Albuquerque,Roraima
+60,Moura Camargo - ME,Carvalho da Prata,PR
+61,Caldeira Souza - EI,Ribeiro Verde,PB
+62,Porto Ltda.,Cavalcante,MT
+63,Fonseca Nunes Ltda.,Borges,MT
+64,Sampaio S/A,Rios da Serra,Rondônia
+65,Freitas e Filhos,Freitas do Oeste,Pará
+66,Fogaça,Camargo Paulista,Rio de Janeiro
+67,Alves S/A,Alves,MG
+68,Borges,Peixoto,Goiás
+69,Porto Montenegro - ME,Cunha,BA
+70,Sampaio,Carvalho,RJ
+71,Araújo S.A.,Cavalcante dos Dourados,RO
+72,Câmara,Pinto de Campos,Mato Grosso
+73,Vasconcelos S.A.,Melo,Roraima
+74,Ribeiro Peixoto Ltda.,Melo de Gonçalves,Santa Catarina
+75,Vieira,Carvalho das Flores,RR
+76,Nascimento S.A.,Mendonça,PE
+77,Fonseca S/A,Cardoso de Siqueira,Ceará
+78,Cirino Ltda.,Nascimento,RN
+79,Borges e Filhos,da Mata das Pedras,São Paulo
+80,Freitas S/A,Brito das Pedras,Paraíba
+81,Sampaio,Machado de Aragão,Rondônia
+82,Novais Aragão S.A.,Oliveira,RR
+83,Azevedo,Novais,Rio Grande do Norte
+84,Sampaio,Souza de da Luz,GO
+85,Pinto S/A,da Cunha,MG
+86,Cassiano,da Mata,Bahia
+87,Ramos,Martins do Campo,Sergipe
+88,Rios,Monteiro de Andrade,Bahia
+89,Azevedo,Duarte,Rondônia
+90,Cassiano Rios e Filhos,Freitas,RN
+91,das Neves,Martins,BA
+92,Machado,da Costa,Rio Grande do Sul
+93,Campos,Martins,PA
+94,Casa Grande e Filhos,Moreira,PE
+95,Montenegro Carvalho - EI,Sales,SC
+96,Sampaio Garcia - EI,Brito da Mata,MS
+97,Correia,Macedo,AL
+98,da Paz Cavalcanti - ME,da Mata,Rio Grande do Norte
+99,Porto,Castro das Flores,ES
+100,Camargo Monteiro Ltda.,Dias do Campo,Amazonas
+101,das Neves Cassiano e Filhos,Fogaça,Pernambuco
+102,da Rocha,Camargo do Norte,São Paulo
+103,Lopes Campos S.A.,Cavalcante,Paraíba
+104,Melo S/A,Albuquerque,ES
+105,Cavalcante,Teixeira da Mata,RS
+106,da Costa,Cirino,Alagoas
+107,da Rocha,Cassiano da Prata,Paraíba
+108,da Mata Andrade - ME,Gonçalves,RN
+109,das Neves S/A,Novais das Pedras,Rondônia
+110,Costa,Novaes do Sul,Ceará
+111,Almeida - EI,Alves de Goiás,SP
+112,da Costa,Freitas de Ribeiro,Rondônia
+113,Azevedo,Vasconcelos,DF
+114,Costa,Leão,Mato Grosso do Sul
+115,Costela,Viana do Amparo,AL
+116,Vieira,Campos de Minas,PB
+117,Melo Ltda.,Silveira das Pedras,Amazonas
+118,Duarte,Andrade,AC
+119,Correia,Lopes da Mata,RJ
+120,Mendes,Farias Alegre,Bahia
