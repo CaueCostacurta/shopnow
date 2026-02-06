@@ -1,6 +1,6 @@
 import pandas as pd
 from pathlib import Path
-from pipeline.utils import get_raw_dir
+from utils import get_raw_dir
 
 RAW_DIR = get_raw_dir()
 
